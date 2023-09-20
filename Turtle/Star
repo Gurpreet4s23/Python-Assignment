@@ -1,0 +1,18 @@
+# draw any polygon in turtle
+# import turtle
+import turtle
+ 
+# Screen board for the turtle to sketch on.
+screenForSketching = turtle.Screen()
+ 
+# creating turtle object
+ob = turtle.Turtle()
+ 
+# Iterate the loop five times for a star
+for i in range(5):
+ 
+        # moving turtle 100 units forward
+        ob.forward(100)
+ 
+        # rotating turtle 144 degree right
+        ob.right(144)
