@@ -69,9 +69,9 @@ geometric_mean.py: Find the geometric mean of a list of numbers.
 
 ## Turtle Codes
 
--[Spiral Square](https://github.com/Gurpreet4s23/Python-Assignment/blob/main/Turtle/Spiral%20Square)
--[Star](https://github.com/Gurpreet4s23/Python-Assignment/blob/main/Turtle/Star)
--[Triangle](https://github.com/Gurpreet4s23/Python-Assignment/blob/main/Turtle/Triangle)
+- [Spiral Square](https://github.com/Gurpreet4s23/Python-Assignment/blob/main/Turtle/Spiral%20Square)
+- [Star](https://github.com/Gurpreet4s23/Python-Assignment/blob/main/Turtle/Star)
+- [Triangle](https://github.com/Gurpreet4s23/Python-Assignment/blob/main/Turtle/Triangle)
 Feel free to submit a pull request on GitHub if you want to help with this project. From bug fixes to new features, all contributions are appreciated.
 
 ## Thank You
